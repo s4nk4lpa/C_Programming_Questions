@@ -1,0 +1,52 @@
+1. Write a C program that uses structures to represent details of five books (title, author, publisher, and price) and prints them out.
+
+2. What is a structure? Write a program to store five students' information (ID, Name, DOB, and phone) and display them using a structure.
+
+3. What is a pointer? Write a program to read and write data from a file using file handling.
+
+4. Write a program to store five employees' records (EID, Name, post, and department) and display them using a structure.
+
+5. Write a program to enter the radius of a football and find the area of the football. (Area=4*pi*r^2)
+
+6. Write a C program to enter the name, grade, age, and address of 10 students in a structure and display the information.
+
+7. Describe file handling concepts in C. Write a C program to enter the names and addresses of students and store them in a data file "student.dat."
+
+8. Define function. Write a program to generate the factorial of a given number using a recursive function in C.
+
+9. Explain the three modes of file opening in C. Write a program to read the name and roll from a file named "exam.dat" and display them.
+
+10. Write a program to print the Fibonacci series 6, 12, 18, 30, ... up to 10 terms using a loop.
+
+11. What is a string function? Write a program to concatenate two strings.
+
+12. Write a program to input emp_no, name, and salary of 100 employees using a structure. Display the name and salary of employees.
+
+13. Write a program to find whether a given number is negative or positive using a function.
+
+14. Write a program to input employee ID, name, address, and post of 20 employees and display them properly.
+
+15. Write a program to read the marks of any 5 students in a subject and count how many students passed or failed (pass marks = 35).
+
+16. Write a program to enter 5 student names, ages, and genders using a structure and display the information.
+
+17. Write a program to enter the name, post, and age of 10 employees using a structure and display them in proper format.
+
+18. Write a program to input 10 integer numbers into an array and display the sum of the numbers.
+
+19. Write a program to input the name, roll, and reg. no. of 10 students using a structure and display them in a proper format.
+
+20. Write a program to enter the 20 employees' name, age, and salary using a structure and print them.
+
+21. Write a program to enter the name, address, and salary of an employee and store it in a file "staff.dat."
+
+22. Write a program to enter the employee name and post of five employees and display the records in proper format using a structure.
+
+23. Write a program to open a new file and read roll-no, name, address, and phone number of students until the user says "no." After reading the data, write it to the file then display the content of the file.
+
+24. Write a program to arrange the elements of an array in ascending order.
+
+25. Write a program using a user-defined function to calculate y raised to the power of x.
+
+26. Write a program to delete and rename a data file using the remove and rename commands.
+
